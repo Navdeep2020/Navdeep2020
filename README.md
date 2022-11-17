@@ -1,3 +1,4 @@
+<img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Navdeep Singh</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
