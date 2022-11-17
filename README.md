@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **singhnavv.2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18NmDVKHaUOMWQegncn7smKIe2v_ikQQ0/view](https://bit.ly/3GnRyGx)
+- 📄 Know about my experiences [Resume](https://bit.ly/3GnRyGx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
